@@ -3,7 +3,7 @@ Use custom pieces on [Lichess](https://lichess.org), with Chrome extension [Styl
 
 <img src="lichess.png" width="800" />
 
-My Lichess setup with Chess.com pieces and styled with [Prettier Lichess](https://chrome.google.com/webstore/detail/prettier-lichess/epgnobcgnmchnhgkgpedebbmhbblfcob).
+My [Lichess setup](prettier-config.json) with [Chess.com pieces](chessdotcom.css) and styled with [Prettier Lichess](https://chrome.google.com/webstore/detail/prettier-lichess/epgnobcgnmchnhgkgpedebbmhbblfcob).
 
 ## Instructions
 1. Install browser extension [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en), or any other extension that can override a website's CSS.
